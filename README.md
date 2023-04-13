@@ -1,4 +1,28 @@
-### Hi there 👋
+# Hello there 👋
+
+### Mi nombre es Ezequiel Facundo Rodriguez, soy estudiante de tercer año de Ingenieria en Informatica en la Universidad Nacional de Mar del Plata. Tambien me encuentro actualmente realizando el curso "Argentina Programa" y algunos cursos pertenecientes a la plataforma Alura sobre Python, Data Science en OCI y Oracle Analytics, SQL con MySQL Server de Oracle.
+
+## Trabajos y proyectos realizados sobre Data Science
+
+* [Proyecto de analisis sobre base de datos de Alquileres](https://github.com/rodriquiel/Analisis_DB_Alquileres)
+* [Proyecto de analisis sobre base de datos de Tarjetas de Credito](https://github.com/rodriquiel/Analisis_DB_Tarjetas_Credito)
+* [Proyecto sobre prediccion de valores de Inmuebles en la ciudad de Bogotá](https://github.com/rodriquiel/Inmersion_Datos)
+* [Proyecto sobre distintos tipos de modelado de Machine Learning](https://github.com/rodriquiel/Clasificacion_con_SKLearn)
+
+## Trabajos y proyectos realizados a partir de Java
+
+* [Aplicacion de escritorio para sistema de hotel](https://github.com/rodriquiel/Sisitema-Hotel-Java)
+* [Conversor de moneda y temperatura](https://github.com/rodriquiel/Conversor-de-Moneda)
+
+
+## Trabajos y proyectos realizados de Front-End y Back-End
+
+* [E-Commerce](https://github.com/rodriquiel/ECommerceAlura)
+* [Portafolio propio](https://github.com/rodriquiel/portafolio)
+* [Juego de Ahorcado](https://github.com/rodriquiel/JuegoAhorcadoAlura)
+* [Encriptador de texto](https://github.com/rodriquiel/EncriptadorDeTexto)
+
+
 
 <!--
 **rodriquiel/rodriquiel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
