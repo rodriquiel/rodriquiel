@@ -8,6 +8,7 @@
 * [Proyecto de analisis sobre base de datos de Tarjetas de Credito](https://github.com/rodriquiel/Analisis_DB_Tarjetas_Credito)
 * [Proyecto sobre prediccion de valores de Inmuebles en la ciudad de Bogotá](https://github.com/rodriquiel/Inmersion_Datos)
 * [Proyecto sobre distintos tipos de modelado de Machine Learning](https://github.com/rodriquiel/Clasificacion_con_SKLearn)
+* [Proyecto sobre optimizacion de modelos de Machine Learning mediante Hiperparametros](https://github.com/rodriquiel/Optimizacion_ML_Hiperparametros)
 
 ## Trabajos y proyectos realizados a partir de Java
 
