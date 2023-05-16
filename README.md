@@ -10,7 +10,7 @@
 * [Proyecto sobre distintos tipos de modelado de Machine Learning](https://github.com/rodriquiel/Clasificacion_con_SKLearn)
 * [Proyecto sobre optimizacion de modelos de Machine Learning mediante Hiperparametros](https://github.com/rodriquiel/Optimizacion_ML_Hiperparametros)
 
-## Trabajos y proyectos realizados a partir de Java
+## Trabajos y proyectos realizados a partir de Java y SQL
 
 * [Aplicacion de escritorio para sistema de hotel](https://github.com/rodriquiel/Sisitema-Hotel-Java)
 * [Conversor de moneda y temperatura](https://github.com/rodriquiel/Conversor-de-Moneda)
