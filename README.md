@@ -1,6 +1,6 @@
 # Hello there 👋
 
-### Mi nombre es Ezequiel Facundo Rodriguez, soy estudiante de tercer año de Ingenieria en Informatica en la Universidad Nacional de Mar del Plata. Tambien me encuentro actualmente realizando el curso "Argentina Programa" y algunos cursos pertenecientes a la plataforma Alura sobre Python, Data Science en OCI y Oracle Analytics, SQL con MySQL Server de Oracle.
+### Mi nombre es Ezequiel Facundo Rodriguez, soy estudiante de tercer año de Ingenieria en Informatica en la Universidad Nacional de Mar del Plata. Tambien me encuentro actualmente realizando el curso "Argentina Programa" orientado a Python y realicé algunos cursos pertenecientes a la plataforma Alura sobre desarrollo Front-End, Java, Python, Data Science y SQL con MySQL Server de Oracle.
 
 ## Trabajos y proyectos realizados sobre Data Science
 
