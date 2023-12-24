@@ -1,8 +1,24 @@
-# Hello 👋
+# Hello, I'm Ezequiel 👋
 
-### Mi nombre es Ezequiel Facundo Rodriguez, soy estudiante de cuarto año de Ingenieria en Informatica en la Universidad Nacional de Mar del Plata. Tambien realicé algunos cursos como "Argentina Programa" orientado a Python y otros pertenecientes a la plataforma Alura sobre desarrollo Front-End, Java, Python, Data Science y SQL con MySQL Server de Oracle.
+* 📌 **Mar del Plata, Argentina.**
+* 📩 **Email: rogriguezequiel8@gmail.com**
+* 🔵 **LinkedIn: [Ezequiel Rodriguez](https://www.linkedin.com/in/ezequiel-rodriguez-8b0a4923b/)**
 
-## Trabajos y proyectos realizados sobre Data Science
+## 🎓Educacion
+* Estudiante de 4to año en Ingenieria en Inforamtica en la Universidad Nacional de Mar del Plata
+* Python Developer Junior en la Universidad Nacional de Misiones
+
+## 📃Certifiaciones
+* Programa Oracle Next Education (Front-End, Java, Python para Data Science, SQL, Business Agility)
+* Nivel 8 de Ingles general para desarrolladores de Software del CUI-UBA (Equivalente B1)
+* Nivel 4 de Ingles en Laboratorio de Idiomas-UNMDP (Equivalente B2) 
+
+## 🛠Tecnologias
+* **Lenguajes:** Python, SQL, C, Java, JavaScript.
+* **Frameworks y librerias**: Pandas, Numpy, Matplotlib, Seaborn, SciKit Learn, Graphviz, Node.js, React.
+* **Herramientas**: Git, PowerBi, AutoCAD.
+
+## Data Science
 
 * [Analisis sobre base de datos de Alquileres](https://github.com/rodriquiel/Analisis_DB_Alquileres)
 * [Analisis sobre base de datos de Tarjetas de Credito](https://github.com/rodriquiel/Analisis_DB_Tarjetas_Credito)
@@ -11,14 +27,14 @@
 * [Proyecto final Argentina Programa sobre aplicación de tecnicas de IA](https://github.com/rodriquiel/Trabajo_Final_IA)
 * [Analisis de datos de peliculas](https://github.com/rodriquiel/Limpieza_datos_films)
 
-## Trabajos y proyectos realizados a partir de Java y SQL
+## Java y SQL
 
 * [Aplicacion de escritorio para sistema de hotel](https://github.com/rodriquiel/Sisitema-Hotel-Java)
 * [Conversor de moneda y temperatura](https://github.com/rodriquiel/Conversor-de-Moneda)
 * [Manipulacion de DB con SQL](https://github.com/rodriquiel/manipulacion_datos_SQL)
 
 
-## Trabajos y proyectos realizados de Front-End y Back-End
+## Front-End y Back-End
 
 * [E-Commerce](https://github.com/rodriquiel/ECommerceAlura)
 * [Portafolio propio](https://github.com/rodriquiel/portafolio)
