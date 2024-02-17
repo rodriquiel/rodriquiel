@@ -9,6 +9,7 @@
 * Python Developer Junior en la Universidad Nacional de Misiones
 
 ## 📃Certifiaciones
+* IBM AI Engineering (Python para aplicacion de tecnicas de aprendizaje automatico y profundo - En curso)
 * Programa Oracle Next Education (Front-End, Java, Python para Data Science, SQL, Business Agility)
 * Nivel 8 de Ingles general para desarrolladores de Software del CUI-UBA (Equivalente B1)
 * Nivel 4 de Ingles en Laboratorio de Idiomas-UNMDP (Equivalente B2) 
