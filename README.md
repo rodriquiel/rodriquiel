@@ -22,7 +22,6 @@
 ## Data Science
 
 * [Proyecto final Argentina Programa sobre aplicación de tecnicas de IA](https://github.com/rodriquiel/Trabajo_Final_IA)
-* [Analisis de datos de peliculas](https://github.com/rodriquiel/Limpieza_datos_films)
 * [Deteccion de fraudes con tarjetas de credito](https://github.com/rodriquiel/DeteccionFraudeTarjetas/tree/main)
 * [Analisis sobre base de datos de Alquileres](https://github.com/rodriquiel/Analisis_DB_Alquileres)
 * [Analisis sobre base de datos de Tarjetas de Credito](https://github.com/rodriquiel/Analisis_DB_Tarjetas_Credito)
