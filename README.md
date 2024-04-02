@@ -1,11 +1,11 @@
-# Hello, I'm Ezequiel 👋
+# Ezequiel Rodriguez 
 
 * 📌 **Mar del Plata, Argentina.**
 * 📩 **Email: rogriguezequiel8@gmail.com**
 * 🔵 **LinkedIn: [Ezequiel Rodriguez](https://www.linkedin.com/in/ezequiel-rodriguez-8b0a4923b/)**
 
 ## 🎓Educacion
-* Estudiante de 4to año en Ingenieria en Inforamtica en la Universidad Nacional de Mar del Plata
+* Estudiante de 3er año en Ingenieria en Inforamtica en la Universidad Nacional de Mar del Plata
 * Python Developer Junior en la Universidad Nacional de Misiones
 
 ## 📃Certifiaciones
