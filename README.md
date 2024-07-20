@@ -5,19 +5,19 @@
 * 🔵 **LinkedIn: [Ezequiel Rodriguez](https://www.linkedin.com/in/ezequiel-rodriguez-8b0a4923b/)**
 
 ## 🎓Educacion
-* Estudiante de 3er año en Ingenieria en Inforamtica en la Universidad Nacional de Mar del Plata
+* Estudiante de 4er año en Ingenieria en Inforamtica en la Universidad Nacional de Mar del Plata
 * Python Developer Junior en la Universidad Nacional de Misiones
 
 ## 📃Certifiaciones
-* IBM AI Engineering (Python para aplicacion de tecnicas de aprendizaje automatico y profundo - En curso)
+* IBM AI Engineering (Python para aplicacion de tecnicas de aprendizaje automatico y profundo)
 * Programa Oracle Next Education (Front-End, Java, Python para Data Science, SQL, Business Agility)
 * Nivel 8 de Ingles general para desarrolladores de Software del CUI-UBA (Equivalente B1)
 * Nivel 4 de Ingles en Laboratorio de Idiomas-UNMDP (Equivalente B2) 
 
 ## 🛠Tecnologias
-* **Lenguajes:** Python, SQL, C, Java, JavaScript.
-* **Frameworks y librerias**: Pandas, Numpy, Matplotlib, Seaborn, SciKit Learn, Graphviz, Node.js, React.
-* **Herramientas**: Git, PowerBi, AutoCAD.
+* **Lenguajes:** Python, SQL, C, Java.
+* **Frameworks y librerias**: Pandas, Numpy, Matplotlib, Seaborn, SciKit Learn, Graphviz, PyTorch, Keras, TensorFlow, OpenCV.
+* **Herramientas**: Git, PowerBi.
 
 ## Data Science
 
