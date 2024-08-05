@@ -23,6 +23,7 @@
 
 * [Proyecto final Argentina Programa sobre aplicación de tecnicas de IA](https://github.com/rodriquiel/Trabajo_Final_IA)
 * [Prediccion de precipitaciones utilizando diferentes clasificadores](https://github.com/rodriquiel/Prediccion_Lluvia/tree/main)
+* [Analisis, limpieza y visualizacion de datos de peliculas y series de Netflix](https://github.com/rodriquiel/NetflixDataAnalysis/tree/main)
 * [Deteccion de fraudes con tarjetas de credito](https://github.com/rodriquiel/DeteccionFraudeTarjetas/tree/main)
 * [Analisis sobre base de datos de Alquileres](https://github.com/rodriquiel/Analisis_DB_Alquileres)
 * [Analisis sobre base de datos de Tarjetas de Credito](https://github.com/rodriquiel/Analisis_DB_Tarjetas_Credito)
