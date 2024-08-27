@@ -15,7 +15,7 @@
 * Nivel 4 de Ingles en Laboratorio de Idiomas-UNMDP (Equivalente B2) 
 
 ## 🛠Tecnologias
-* **Lenguajes:** Python, MySQL, C, Java.
+* **Lenguajes:** Python, SQL, C, Java.
 * **Frameworks y librerias**: Pandas, Numpy, Matplotlib, Seaborn, SciKit Learn, Graphviz, PyTorch, Keras, TensorFlow, OpenCV.
 * **Herramientas**: Git, PowerBi.
 
