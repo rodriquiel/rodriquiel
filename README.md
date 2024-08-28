@@ -12,7 +12,7 @@
 * IBM AI Engineering (Python para aplicacion de tecnicas de aprendizaje automatico y profundo)
 * Programa Oracle Next Education (Front-End, Java, Python para Data Science, SQL, Business Agility)
 * Nivel 8 de Ingles general para desarrolladores de Software del CUI-UBA (Equivalente B1)
-* Nivel 4 de Ingles en Laboratorio de Idiomas-UNMDP (Equivalente B2) 
+* Nivel 4 de Ingles en Laboratorio de Idiomas-UNMDP (Equivalente B1+) 
 
 ## 🛠Tecnologias
 * **Lenguajes:** Python, SQL, C, Java.
