@@ -28,21 +28,12 @@
 * [Analisis, limpieza y visualizacion de datos de peliculas y series de Netflix](https://github.com/rodriquiel/NetflixDataAnalysis/tree/main)
 * [Analisis de datos de lanzamientos espaciales](https://github.com/rodriquiel/LaunchesDataAnalysis/tree/main)
 * [Analisis sobre base de datos de Alquileres](https://github.com/rodriquiel/Analisis_DB_Alquileres)
-
-
-## Java y SQL
-
-* [Aplicacion de escritorio para sistema de hotel](https://github.com/rodriquiel/Sisitema-Hotel-Java)
-* [Conversor de moneda y temperatura](https://github.com/rodriquiel/Conversor-de-Moneda)
 * [Manipulacion de DB con SQL](https://github.com/rodriquiel/manipulacion_datos_SQL)
 
-
-## Front-End y Back-End
+## Otros Proyectos
 
 * [E-Commerce](https://github.com/rodriquiel/ECommerceAlura)
-* [Portafolio propio](https://github.com/rodriquiel/portafolio)
-* [Juego de Ahorcado](https://github.com/rodriquiel/JuegoAhorcadoAlura)
-* [Encriptador de texto](https://github.com/rodriquiel/EncriptadorDeTexto)
+* [Aplicacion de escritorio para sistema de hotel](https://github.com/rodriquiel/Sisitema-Hotel-Java)
 
 
 
