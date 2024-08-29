@@ -23,12 +23,12 @@
 
 * [Proyecto final Argentina Programa sobre aplicación de tecnicas de IA](https://github.com/rodriquiel/Trabajo_Final_IA)
 * [Prediccion de precipitaciones utilizando diferentes clasificadores](https://github.com/rodriquiel/Prediccion_Lluvia/tree/main)
+* [Prediccion de valores de Inmuebles en la ciudad de Bogotá](https://github.com/rodriquiel/Inmersion_Datos)
+* [Deteccion de fraudes con tarjetas de credito](https://github.com/rodriquiel/DeteccionFraudeTarjetas/tree/main)
 * [Analisis, limpieza y visualizacion de datos de peliculas y series de Netflix](https://github.com/rodriquiel/NetflixDataAnalysis/tree/main)
 * [Analisis de datos de lanzamientos espaciales](https://github.com/rodriquiel/LaunchesDataAnalysis/tree/main)
-* [Deteccion de fraudes con tarjetas de credito](https://github.com/rodriquiel/DeteccionFraudeTarjetas/tree/main)
 * [Analisis sobre base de datos de Alquileres](https://github.com/rodriquiel/Analisis_DB_Alquileres)
-* [Analisis sobre base de datos de Tarjetas de Credito](https://github.com/rodriquiel/Analisis_DB_Tarjetas_Credito)
-* [Prediccion de valores de Inmuebles en la ciudad de Bogotá](https://github.com/rodriquiel/Inmersion_Datos)
+
 
 ## Java y SQL
 
