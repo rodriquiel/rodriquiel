@@ -28,7 +28,6 @@
 * [Analisis, limpieza y visualizacion de datos de peliculas y series de Netflix](https://github.com/rodriquiel/NetflixDataAnalysis/tree/main)
 * [Analisis de datos de lanzamientos espaciales](https://github.com/rodriquiel/LaunchesDataAnalysis/tree/main)
 * [Analisis sobre base de datos de Alquileres](https://github.com/rodriquiel/Analisis_DB_Alquileres)
-* [Manipulacion de DB con SQL](https://github.com/rodriquiel/manipulacion_datos_SQL)
 
 ## Otros Proyectos
 
