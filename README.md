@@ -16,7 +16,7 @@
 
 ## 🛠Tecnologias
 * **Lenguajes:** Python, SQL, C, Java.
-* **Frameworks y librerias**: Pandas, Numpy, Matplotlib, Seaborn, SciKit Learn, Graphviz, PyTorch, Keras, TensorFlow, OpenCV.
+* **Frameworks y librerias**: Pandas, Numpy, Matplotlib, Seaborn, SciKit Learn, Graphviz, PyTorch, Keras, TensorFlow, OpenCV, Flask, Django.
 * **Herramientas**: Git, PowerBi.
 
 ## Data analysis & Machine learning
@@ -32,7 +32,7 @@
 ## Otros Proyectos
 
 * [E-Commerce](https://github.com/rodriquiel/ECommerceAlura)
-* [Aplicacion de escritorio para sistema de hotel](https://github.com/rodriquiel/Sisitema-Hotel-Java)
+* [Aplicacion de escritorio para sistema de hotel con Java](https://github.com/rodriquiel/Sisitema-Hotel-Java)
 
 
 
