@@ -15,9 +15,14 @@
 * Nivel 4 de Ingles en Laboratorio de Idiomas-UNMDP (Equivalente B1+) 
 
 ## 🛠Tecnologias
-* **Lenguajes:** Python, SQL, C, Java.
-* **Frameworks y librerias**: Pandas, Numpy, Matplotlib, Seaborn, SciKit Learn, Graphviz, PyTorch, Keras, TensorFlow, OpenCV, Flask, Django.
+* **Lenguajes:** Python, SQL, C, Java, JavaScript, C#.
+* **Frameworks y librerias**: Pandas, Numpy, Matplotlib, Seaborn, SciKit Learn, Graphviz, PyTorch, Keras, TensorFlow, OpenCV, Flask, Django, Angular, Hibernate, SpringBoot.
 * **Herramientas**: Git, PowerBi.
+
+## 🎯 Metas en Web3
+- Convertirme en desarrollador Ethereum profesional  
+- Contribuir en proyectos open-source relacionados con DAOs y DeFi  
+- Construir soluciones seguras y escalables en blockchain  
 
 ## Data analysis & Machine learning
 
@@ -33,7 +38,6 @@
 
 * [E-Commerce](https://github.com/rodriquiel/ECommerceAlura)
 * [Aplicacion de escritorio para sistema de hotel con Java](https://github.com/rodriquiel/Sisitema-Hotel-Java)
-* [Desarrollo de Maquina virtual en C](https://github.com/paulabonifazi/MV-Grupo0A)
 
 
 
